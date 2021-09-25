@@ -31,4 +31,4 @@ int main() {
 	std::cout << calculate(tree) << std::endl;
 
 	return 0;
-}
+} 
